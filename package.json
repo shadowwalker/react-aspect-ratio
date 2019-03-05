@@ -1,6 +1,6 @@
 {
   "name": "r-aspect-ratio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react component for fixed aspect ratio layout in responsive design",
   "main": "index.js",
   "types": "index.d.ts",

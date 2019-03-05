@@ -6,7 +6,7 @@ interface IProps {
   minWidth?: number        // px
   maxWidth?: number        // px
   className?: string       // className pass to root div
-  children: React.ReactNode
+  children?: React.ReactNode
 }
 
 export default ({ ratio, width= '100%', minWidth, maxWidth, className, children }: IProps) => {
