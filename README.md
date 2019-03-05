@@ -7,7 +7,7 @@ A react component for fixed aspect ratio layout in responsive design.
 ### Add to your react app
 
 ``` bash
-yarn add react-aspectratio
+yarn add r-aspect-ratio
 ```
 
 ## Example
