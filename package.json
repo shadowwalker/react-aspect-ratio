@@ -1,0 +1,19 @@
+{
+  "name": "react-aspectratio",
+  "version": "1.0.0",
+  "description": "A react component for fixed aspect ratio layout in responsive design",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/shadowwalker/react-aspect-ratio",
+  "author": "Wei Wang",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.3",
+    "react": "^16.8.2",
+    "typescript": "^3.3.3"
+  }
+}
